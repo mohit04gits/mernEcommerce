@@ -1,0 +1,38 @@
+{
+  "name": "shema",
+  "version": "1.0.0",
+  "description": "Shema MERN Stack Ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bereky/shema-mern-ecommerce.git"
+  },
+  "author": "Bereket Lemma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bereky/shema-mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/Bereky/shema-mern-ecommerce#readme",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.3.0",
+    "@mui/material": "^6.3.0",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.7",
+    "react-dom": "^19.0.0",
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^7.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-react": "^7.37.3"
+  }
+}
